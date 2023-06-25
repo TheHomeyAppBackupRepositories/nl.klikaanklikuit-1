@@ -1,0 +1,19 @@
+<svg height="960" viewBox="0 0 960 960" width="960" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+    	#pair-left {
+    		animation: pair 6s infinite;
+    	}
+        #pair-right {
+            animation: pair 6s infinite 3s;
+        }
+
+    	@keyframes pair {
+    		0%, 15%, 35%, 65%, 100%  {
+    			fill: rgba(0,0,0,1);
+    		}
+    		25%, 50% {
+    			fill: #0074CC;
+    		}
+    	}
+    </style>
+<g fill="none" fill-rule="evenodd"><path d="m39.338961 124.929736 102.642937-102.6315859h676.714126l102.642937 102.6315859v723.129361l-90.248886 90.239053h-689.108177l-102.642937-102.631586z" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/><path d="m568.921297 68c16.418237 0 30.985306 7.9382935 40.083798 20.1917704l88.187213.0005373c16.462334 0 29.807692 13.3453583 29.807692 29.8076923s-13.345358 29.807692-29.807692 29.807692l-88.187213.000538c-9.098492 12.253477-23.665561 20.19177-40.083798 20.19177-27.570771 0-49.921297-22.385763-49.921297-50 0-27.6142375 22.350526-50 49.921297-50z" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" transform="matrix(-1 0 0 1 1246 0)"/><circle id="pair-right" cx="678" cy="118" fill="#000" r="24" transform="matrix(-1 0 0 1 1356 0)"/><g fill="#000"><circle cx="552.5" cy="118.5" r="12.5" transform="matrix(-1 0 0 1 1105 0)"/><path d="m170.338961 738.29815h72v72h-72z"/><path d="m266.338961 738.29815h72v72h-72z"/><path d="m362.338961 738.29815h72v72h-72z"/><path d="m458.338961 738.29815h72v72h-72z"/><path d="m554.338961 738.29815h72v72h-72z"/><path d="m650.338961 738.29815h72v72h-72z"/></g><path d="m148 714h692v224h-692z" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/><path d="m746.338961 738.29815h72v72h-72z" fill="#000"/><path d="m309.875642 68c16.418238 0 30.985306 7.9382935 40.083798 20.1917704l88.187213.0005373c16.462334 0 29.807693 13.3453583 29.807693 29.8076923s-13.345359 29.807692-29.807693 29.807692l-88.187213.000538c-9.098492 12.253477-23.66556 20.19177-40.083798 20.19177-27.570771 0-49.921296-22.385763-49.921296-50 0-27.6142375 22.350525-50 49.921296-50z" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/><circle id="pair-left" cx="308.954346" cy="118" fill="#000" r="24"/><circle cx="434.454346" cy="118.5" fill="#000" r="12.5"/></g></svg>
