@@ -1,1 +1,40 @@
-<svg height="960" viewBox="0 0 960 960" width="960" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><g stroke="#000" stroke-linejoin="round"><path d="m65.338961 114.929736 92.642937-92.6315859h636.714126l92.642937 92.6315859v743.129361l-80.248886 80.239053h-649.108177l-92.642937-92.631586z" stroke-width="40"/><path d="m79.338961 721.29815h68.550577c9.889943 0 17.907325-8.021035 17.907325-17.915484v-450.169032c0-9.894449 8.017383-17.915484 17.907326-17.915484h292.80338-.337216 292.80338c9.889943 0 17.907326 8.021035 17.907326 17.915484v450.169032c0 9.894449 8.017383 17.915484 17.907325 17.915484h68.550577" stroke-width="20"/><circle cx="731.338961" cy="152" r="48" stroke-width="20"/></g><circle cx="370.338961" cy="147.29815" fill="#000" r="25"/><circle cx="467.338961" cy="147.29815" fill="#000" r="13"/><path d="m199.338961 741.29815h112v112h-112z" stroke="#000" stroke-linejoin="round" stroke-width="20"/><path d="m219.338961 761.29815h72v72h-72z" fill="#000"/><path d="m311.338961 741.29815h112v112h-112z" stroke="#000" stroke-linejoin="round" stroke-width="20"/><path d="m331.338961 761.29815h72v72h-72z" fill="#000"/><path d="m423.338961 741.29815h112v112h-112z" stroke="#000" stroke-linejoin="round" stroke-width="20"/><path d="m443.338961 761.29815h72v72h-72z" fill="#000"/><path d="m535.338961 741.29815h112v112h-112z" stroke="#000" stroke-linejoin="round" stroke-width="20"/><path d="m555.338961 761.29815h72v72h-72z" fill="#000"/><path d="m648.338961 741.29815h112v112h-112z" stroke="#000" stroke-linejoin="round" stroke-width="20"/><path d="m668.338961 761.29815h72v72h-72z" fill="#000"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="cls-2" points="29.04 92.73 21.74 87.11 21.74 29.03 29.04 20.17 83.55 8.59"/>
+    <polyline class="cls-1" points="83.55 7.8 90.85 13.56 90.85 73.46 83.55 82.31 29.04 93.9"/>
+    <polyline class="cls-1" points="29.04 93.9 12.45 88.2 5.15 82.44 5.15 22.54 12.45 13.69 66.96 2.1 83.55 7.8"/>
+    <polyline class="cls-2" points="21.74 78.43 29.61 76.76 29.61 35.76 82.98 24.42 82.98 65.41 90.85 63.74"/>
+    <ellipse cx="55.76" cy="23.87" rx="1.76" ry="1.42" transform="translate(.73 49.37) rotate(-48.03)"/>
+    <ellipse cx="48.01" cy="25.52" rx="2.96" ry="2.4" transform="translate(-3.07 44.15) rotate(-48.03)"/>
+    <polygon points="40.11 83.47 35.28 84.5 35.28 79.66 40.11 78.64 40.11 83.47"/>
+    <polygon points="49.59 81.46 44.75 82.49 44.75 77.65 49.59 76.62 49.59 81.46"/>
+    <polygon points="59.22 79.41 54.38 80.44 54.38 75.6 59.22 74.58 59.22 79.41"/>
+    <polygon points="68.94 77.35 64.11 78.37 64.11 73.54 68.94 72.51 68.94 77.35"/>
+    <polygon points="78.62 75.29 73.78 76.32 73.78 71.48 78.62 70.45 78.62 75.29"/>
+    <line class="cls-2" x1="78.14" y1="15.52" x2="78.14" y2="19.44"/>
+    <polyline class="cls-2" points="76.8 17.15 78.14 15.52 79.49 16.58"/>
+  </g>
+  <path class="cls-2" d="m77.81,22.05c-.27,0-.55-.03-.81-.1-.9-.22-1.68-.82-2.19-1.69-.67-1.13-.84-2.59-.46-4.01.59-2.24,2.41-3.86,4.34-3.86.27,0,.55.03.81.1.9.22,1.68.82,2.19,1.69.67,1.13.84,2.59.46,4.01-.59,2.24-2.41,3.86-4.34,3.86Z"/>
+  <line class="cls-2" x1="28.94" y1="20.3" x2="11.8" y2="14.48"/>
+  <line class="cls-2" x1="21.98" y1="28.74" x2="5.15" y2="23.03"/>
+  <line class="cls-2" x1="21.74" y1="87.05" x2="5.15" y2="81.35"/>
+</svg>

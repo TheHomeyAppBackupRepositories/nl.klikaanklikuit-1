@@ -1,1 +1,51 @@
-<svg height="960" viewBox="0 0 960 960" width="960" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="m39.338961 124.929736 102.642937-102.6315859h676.714126l102.642937 102.6315859v723.129361l-90.248886 90.239053h-689.108177l-102.642937-102.631586z" stroke="#000" stroke-linejoin="round" stroke-width="40"/><g fill="#000"><circle cx="678" cy="118" r="24" transform="matrix(-1 0 0 1 1356 0)"/><circle cx="552.5" cy="118.5" r="12.5" transform="matrix(-1 0 0 1 1105 0)"/><path d="m170.338961 738.29815h72v72h-72z"/><path d="m266.338961 738.29815h72v72h-72z"/><path d="m362.338961 738.29815h72v72h-72z"/><path d="m458.338961 738.29815h72v72h-72z"/><path d="m554.338961 738.29815h72v72h-72z"/><path d="m650.338961 738.29815h72v72h-72z"/></g><path d="m148 714h692v224h-692z" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/><path d="m746.338961 738.29815h72v72h-72z" fill="#000"/><circle cx="308.954346" cy="118" fill="#000" r="24"/><circle cx="434.454346" cy="118.5" fill="#000" r="12.5"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-3" points="35.04 90.6 28.08 84.44 28.08 29.93 35.04 21.5 86.95 10.46"/>
+  <polyline class="cls-2" points="86.95 9.72 93.9 15.2 93.9 72.24 86.95 80.68 35.04 91.71"/>
+  <polygon points="57.61 80.92 53.31 81.84 53.31 76.62 57.61 75.71 57.61 80.92"/>
+  <polygon points="63.4 79.74 59.1 80.66 59.1 75.45 63.4 74.53 63.4 79.74"/>
+  <polygon points="46.17 83.4 41.88 84.31 41.88 79.1 46.17 78.18 46.17 83.4"/>
+  <polygon points="51.97 82.22 47.67 83.13 47.67 77.92 51.97 77.01 51.97 82.22"/>
+  <polygon points="69.02 78.52 64.72 79.43 64.72 74.22 69.02 73.3 69.02 78.52"/>
+  <polygon points="74.46 77.37 70.16 78.29 70.16 73.07 74.46 72.16 74.46 77.37"/>
+  <polygon points="79.98 76.18 75.69 77.09 75.69 71.88 79.98 70.96 79.98 76.18"/>
+  <g>
+    <path class="cls-3" d="m79.44,19.29c0,2.22-1.8,4.4-4.01,4.87-1.22.26-2.31-.06-3.05-.76l-5.31,1.11c-1.44.31-2.6-.61-2.6-2.05s1.16-2.85,2.6-3.15l5.31-1.11c.74-1.02,1.83-1.8,3.05-2.06,2.22-.47,4.01.94,4.01,3.16Z"/>
+    <ellipse cx="75.41" cy="20.15" rx="2.28" ry="1.84" transform="translate(10 62.74) rotate(-48.03)"/>
+    <ellipse cx="67.13" cy="21.89" rx="1.03" ry=".83" transform="translate(5.97 57.17) rotate(-48.03)"/>
+  </g>
+  <g>
+    <path class="cls-3" d="m43.15,27.16c0-2.22,1.8-4.4,4.01-4.87,1.22-.26,2.31.06,3.05.76l5.31-1.11c1.44-.31,2.6.61,2.6,2.05s-1.16,2.85-2.6,3.15l-5.31,1.11c-.74,1.02-1.83,1.8-3.05,2.06-2.22.47-4.01-.94-4.01-3.16Z"/>
+    <ellipse cx="47.18" cy="26.3" rx="2.28" ry="1.84" transform="translate(-3.92 43.8) rotate(-48.03)"/>
+    <ellipse cx="55.46" cy="24.56" rx="1.03" ry=".83" transform="translate(.11 49.37) rotate(-48.03)"/>
+  </g>
+  <polyline class="cls-3" points="82.25 11.47 82.25 25.8 39.73 34.83 39.73 20.5"/>
+  <polyline class="cls-3" points="39.73 90.12 39.73 76.67 82.25 67.65 82.25 81.09"/>
+  <polyline class="cls-1" points="86.95 9.72 71.14 4.28 19.24 15.32 12.28 23.76 12.28 45.72 12.28 45.72 2.1 47.88 2.1 58.02 12.28 55.86 12.28 55.85 12.28 79.67 19.24 85.15 35.04 91.72"/>
+  <circle cx="7.63" cy="51.77" r="1.93"/>
+  <line class="cls-3" x1="13.32" y1="45.72" x2="13.32" y2="55.85"/>
+  <line class="cls-3" x1="34.64" y1="21.98" x2="19.09" y2="15.5"/>
+  <line class="cls-3" x1="28.17" y1="29.82" x2="12.62" y2="23.34"/>
+  <polyline class="cls-3" points="12.28 77.86 28.08 84.44 28.09 84.45"/>
+</svg>

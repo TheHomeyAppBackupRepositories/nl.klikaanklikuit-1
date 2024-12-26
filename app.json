@@ -1,7 +1,7 @@
 {
   "_comment": "This file is generated. Please edit .homeycompose/app.json instead.",
   "id": "nl.klikaanklikuit",
-  "version": "7.4.0",
+  "version": "7.5.2",
   "compatibility": ">=5.0.0",
   "brandColor": "#4fdf20",
   "sdk": 3,
@@ -70,7 +70,18 @@
   "drivers": [
     {
       "name": {
-        "en": "ABST-604"
+        "en": "ABST-604",
+        "nl": "ABST-604",
+        "da": "ABST-604",
+        "de": "ABST-604",
+        "es": "ABST-604",
+        "fr": "ABST-604",
+        "it": "ABST-604",
+        "no": "ABST-604",
+        "sv": "ABST-604",
+        "pl": "ABST-604",
+        "ru": "ABST-604",
+        "ko": "ABST-604"
       },
       "class": "sensor",
       "capabilities": [
@@ -758,7 +769,17 @@
     },
     {
       "name": {
-        "en": "ACC-250"
+        "en": "ACC-250",
+        "da": "ACC-250",
+        "de": "ACC-250",
+        "es": "ACC-250",
+        "fr": "ACC-250",
+        "it": "ACC-250",
+        "no": "ACC-250",
+        "sv": "ACC-250",
+        "pl": "ACC-250",
+        "ru": "ACC-250",
+        "ko": "ACC-250"
       },
       "class": "socket",
       "capabilities": [
@@ -898,7 +919,17 @@
     },
     {
       "name": {
-        "en": "ACC-3500"
+        "en": "ACC-3500",
+        "da": "ACC-3500",
+        "de": "ACC-3500",
+        "es": "ACC-3500",
+        "fr": "ACC-3500",
+        "it": "ACC-3500",
+        "no": "ACC-3500",
+        "sv": "ACC-3500",
+        "pl": "ACC-3500",
+        "ru": "ACC-3500",
+        "ko": "ACC-3500"
       },
       "class": "socket",
       "capabilities": [
@@ -1019,8 +1050,8 @@
               "es": "Presiona el botón emparejado con tu dispositivo.",
               "fr": "Appuyez sur le bouton couplé à votre appareil.",
               "it": "Premi il pulsante che è accoppiato al tuo dispositivo.",
-              "no": "Trykk på knappen som er parret med enheten din.",
-              "sv": "Tryck på knappen som är ihopkopplad med din enhet.",
+              "no": "Trykk på knappen som er parret med din enhet.",
+              "sv": "Tryck på knappen som är ihopkopplad med enheten.",
               "pl": "Naciśnij przycisk sparowany z urządzeniem.",
               "ru": "Нажмите кнопку, сопряженную с вашим устройством.",
               "ko": "장치와 페어링된 버튼을 누르세요."
@@ -1032,7 +1063,18 @@
     },
     {
       "name": {
-        "en": "ACCT-510"
+        "en": "ACCT-510",
+        "nl": "ACCT-510",
+        "da": "ACCT-510",
+        "de": "ACCT-510",
+        "es": "ACCT-510",
+        "fr": "ACCT-510",
+        "it": "ACCT-510",
+        "no": "ACCT-510",
+        "sv": "ACCT-510",
+        "pl": "ACCT-510",
+        "ru": "ACCT-510",
+        "ko": "ACCT-510"
       },
       "class": "remote",
       "capabilities": [],
@@ -1778,7 +1820,17 @@
     },
     {
       "name": {
-        "en": "ACDB-7000A"
+        "en": "ACDB-7000A",
+        "da": "ACDB-7000A",
+        "de": "ACDB-7000A",
+        "es": "ACDB-7000A",
+        "fr": "ACDB-7000A",
+        "it": "ACDB-7000A",
+        "no": "ACDB-7000A",
+        "sv": "ACDB-7000A",
+        "pl": "ACDB-7000A",
+        "ru": "ACDB-7000A",
+        "ko": "ACDB-7000A"
       },
       "class": "remote",
       "capabilities": [],
@@ -1837,7 +1889,18 @@
     },
     {
       "name": {
-        "en": "ACDB-7000B"
+        "en": "ACDB-7000B",
+        "nl": "ACDB-7000B",
+        "da": "ACDB-7000B",
+        "de": "ACDB-7000B",
+        "es": "ACDB-7000B",
+        "fr": "ACDB-7000B",
+        "it": "ACDB-7000B",
+        "no": "ACDB-7000B",
+        "sv": "ACDB-7000B",
+        "pl": "ACDB-7000B",
+        "ru": "ACDB-7000B",
+        "ko": "ACDB-7000B"
       },
       "class": "remote",
       "capabilities": [],
@@ -2028,7 +2091,18 @@
     },
     {
       "name": {
-        "en": "ACDB-8000A"
+        "en": "ACDB-8000A",
+        "nl": "ACDB-8000A",
+        "da": "ACDB-8000A",
+        "de": "ACDB-8000A",
+        "es": "ACDB-8000A",
+        "fr": "ACDB-8000A",
+        "it": "ACDB-8000A",
+        "no": "ACDB-8000A",
+        "sv": "ACDB-8000A",
+        "pl": "ACDB-8000A",
+        "ru": "ACDB-8000A",
+        "ko": "ACDB-8000A"
       },
       "class": "remote",
       "capabilities": [],
@@ -2351,7 +2425,18 @@
     },
     {
       "name": {
-        "en": "ACM-100"
+        "en": "ACM-100",
+        "nl": "ACM-100",
+        "da": "ACM-100",
+        "de": "ACM-100",
+        "es": "ACM-100",
+        "fr": "ACM-100",
+        "it": "ACM-100",
+        "no": "ACM-100",
+        "sv": "ACM-100",
+        "pl": "ACM-100",
+        "ru": "ACM-100",
+        "ko": "ACM-100"
       },
       "class": "socket",
       "capabilities": [
@@ -2491,7 +2576,17 @@
     },
     {
       "name": {
-        "en": "ACM-1000"
+        "en": "ACM-1000",
+        "da": "ACM-1000",
+        "de": "ACM-1000",
+        "es": "ACM-1000",
+        "fr": "ACM-1000",
+        "it": "ACM-1000",
+        "no": "ACM-1000",
+        "sv": "ACM-1000",
+        "pl": "ACM-1000",
+        "ru": "ACM-1000",
+        "ko": "ACM-1000"
       },
       "class": "socket",
       "capabilities": [
@@ -2759,7 +2854,17 @@
     },
     {
       "name": {
-        "en": "ACM-2300-HC"
+        "en": "ACM-2300-HC",
+        "da": "ACM-2300-HC",
+        "de": "ACM-2300-HC",
+        "es": "ACM-2300-HC",
+        "fr": "ACM-2300-HC",
+        "it": "ACM-2300-HC",
+        "no": "ACM-2300-HC",
+        "sv": "ACM-2300-HC",
+        "pl": "ACM-2300-HC",
+        "ru": "ACM-2300-HC",
+        "ko": "ACM-2300-HC"
       },
       "class": "socket",
       "capabilities": [
@@ -3149,7 +3254,17 @@
     },
     {
       "name": {
-        "en": "ACM-250"
+        "en": "ACM-250",
+        "da": "ACM-250",
+        "de": "ACM-250",
+        "es": "ACM-250",
+        "fr": "ACM-250",
+        "it": "ACM-250",
+        "no": "ACM-250",
+        "sv": "ACM-250",
+        "pl": "ACM-250",
+        "ru": "ACM-250",
+        "ko": "ACM-250"
       },
       "class": "socket",
       "capabilities": [
@@ -3691,7 +3806,17 @@
     },
     {
       "name": {
-        "en": "ACM-3000H2"
+        "en": "ACM-3000H2",
+        "da": "ACM-3000H2",
+        "de": "ACM-3000H2",
+        "es": "ACM-3000H2",
+        "fr": "ACM-3000H2",
+        "it": "ACM-3000H2",
+        "no": "ACM-3000H2",
+        "sv": "ACM-3000H2",
+        "pl": "ACM-3000H2",
+        "ru": "ACM-3000H2",
+        "ko": "ACM-3000H2"
       },
       "class": "socket",
       "capabilities": [
@@ -3959,7 +4084,17 @@
     },
     {
       "name": {
-        "en": "ACM-LV10"
+        "en": "ACM-LV10",
+        "da": "ACM-LV10",
+        "de": "ACM-LV10",
+        "es": "ACM-LV10",
+        "fr": "ACM-LV10",
+        "it": "ACM-LV10",
+        "no": "ACM-LV10",
+        "sv": "ACM-LV10",
+        "pl": "ACM-LV10",
+        "ru": "ACM-LV10",
+        "ko": "ACM-LV10"
       },
       "class": "socket",
       "capabilities": [
@@ -4490,7 +4625,18 @@
     },
     {
       "name": {
-        "en": "ACST-9900"
+        "en": "ACST-9900",
+        "nl": "ACST-9900",
+        "da": "ACST-9900",
+        "de": "ACST-9900",
+        "es": "ACST-9900",
+        "fr": "ACST-9900",
+        "it": "ACST-9900",
+        "no": "ACST-9900",
+        "sv": "ACST-9900",
+        "pl": "ACST-9900",
+        "ru": "ACST-9900",
+        "ko": "ACST-9900"
       },
       "class": "remote",
       "capabilities": [],
@@ -5113,7 +5259,18 @@
     },
     {
       "name": {
-        "en": "AGDR-200"
+        "en": "AGDR-200",
+        "nl": "AGDR-200",
+        "da": "AGDR-200",
+        "de": "AGDR-200",
+        "es": "AGDR-200",
+        "fr": "AGDR-200",
+        "it": "AGDR-200",
+        "no": "AGDR-200",
+        "sv": "AGDR-200",
+        "pl": "AGDR-200",
+        "ru": "AGDR-200",
+        "ko": "AGDR-200"
       },
       "class": "socket",
       "capabilities": [
@@ -5393,7 +5550,18 @@
     },
     {
       "name": {
-        "en": "AGDR-3500"
+        "en": "AGDR-3500",
+        "nl": "AGDR-3500",
+        "da": "AGDR-3500",
+        "de": "AGDR-3500",
+        "es": "AGDR-3500",
+        "fr": "AGDR-3500",
+        "it": "AGDR-3500",
+        "no": "AGDR-3500",
+        "sv": "AGDR-3500",
+        "pl": "AGDR-3500",
+        "ru": "AGDR-3500",
+        "ko": "AGDR-3500"
       },
       "class": "socket",
       "capabilities": [
@@ -6033,7 +6201,18 @@
     },
     {
       "name": {
-        "en": "AKCT-510"
+        "en": "AKCT-510",
+        "nl": "AKCT-510",
+        "da": "AKCT-510",
+        "de": "AKCT-510",
+        "es": "AKCT-510",
+        "fr": "AKCT-510",
+        "it": "AKCT-510",
+        "no": "AKCT-510",
+        "sv": "AKCT-510",
+        "pl": "AKCT-510",
+        "ru": "AKCT-510",
+        "ko": "AKCT-510"
       },
       "class": "remote",
       "capabilities": [],
@@ -6825,7 +7004,18 @@
     },
     {
       "name": {
-        "en": "ALED-MR2705"
+        "en": "ALED-MR2705",
+        "nl": "ALED-MR2705",
+        "da": "ALED-MR2705",
+        "de": "ALED-MR2705",
+        "es": "ALED-MR2705",
+        "fr": "ALED-MR2705",
+        "it": "ALED-MR2705",
+        "no": "ALED-MR2705",
+        "sv": "ALED-MR2705",
+        "pl": "ALED-MR2705",
+        "ru": "ALED-MR2705",
+        "ko": "ALED-MR2705"
       },
       "class": "light",
       "capabilities": [
@@ -8042,7 +8232,18 @@
     },
     {
       "name": {
-        "en": "APCR-2300"
+        "en": "APCR-2300",
+        "nl": "APCR-2300",
+        "da": "APCR-2300",
+        "de": "APCR-2300",
+        "es": "APCR-2300",
+        "fr": "APCR-2300",
+        "it": "APCR-2300",
+        "no": "APCR-2300",
+        "sv": "APCR-2300",
+        "pl": "APCR-2300",
+        "ru": "APCR-2300",
+        "ko": "APCR-2300"
       },
       "class": "socket",
       "capabilities": [
@@ -8176,7 +8377,17 @@
     },
     {
       "name": {
-        "en": "APIR-2150"
+        "en": "APIR-2150",
+        "da": "APIR-2150",
+        "de": "APIR-2150",
+        "es": "APIR-2150",
+        "fr": "APIR-2150",
+        "it": "APIR-2150",
+        "no": "APIR-2150",
+        "sv": "APIR-2150",
+        "pl": "APIR-2150",
+        "ru": "APIR-2150",
+        "ko": "APIR-2150"
       },
       "class": "sensor",
       "capabilities": [
@@ -8457,7 +8668,17 @@
           "options": {
             "title": {
               "en": "Press the button...",
-              "nl": "Druk op de knop..."
+              "nl": "Druk op de knop...",
+              "da": "Tryk på knappen...",
+              "de": "Drücken Sie den Knopf...",
+              "es": "Presiona el botón...",
+              "fr": "Appuyez sur le bouton...",
+              "it": "Premi il pulsante...",
+              "no": "Trykk på knappen...",
+              "sv": "Tryck på knappen...",
+              "pl": "Naciśnij przycisk...",
+              "ru": "Нажмите кнопку...",
+              "ko": "버튼을 누르세요..."
             },
             "instruction": {
               "en": "Press the button on your device once.",
@@ -8519,7 +8740,17 @@
           "options": {
             "title": {
               "en": "Copy your remote signal",
-              "nl": "Kopieer het signaal van de afstandsbediening"
+              "nl": "Kopieer het signaal van de afstandsbediening",
+              "da": "Kopier dit fjernbetjeningssignal",
+              "de": "Kopieren Sie Ihr Fernbedienungssignal",
+              "es": "Copia la señal de tu mando a distancia",
+              "fr": "Copiez le signal de votre télécommande",
+              "it": "Copia il segnale del telecomando",
+              "no": "Kopier fjernkontrollsignalet ditt",
+              "sv": "Kopiera din fjärrkontrollsignal",
+              "pl": "Skopiuj sygnał pilota",
+              "ru": "Скопируйте сигнал вашего пульта",
+              "ko": "리모컨 신호 복사"
             },
             "instruction": {
               "en": "Press the button that is paired to your device.",
@@ -9488,7 +9719,17 @@
     },
     {
       "name": {
-        "en": "AWS-3500"
+        "en": "AWS-3500",
+        "da": "AWS-3500",
+        "de": "AWS-3500",
+        "es": "AWS-3500",
+        "fr": "AWS-3500",
+        "it": "AWS-3500",
+        "no": "AWS-3500",
+        "sv": "AWS-3500",
+        "pl": "AWS-3500",
+        "ru": "AWS-3500",
+        "ko": "AWS-3500"
       },
       "class": "socket",
       "capabilities": [
@@ -9651,11 +9892,31 @@
           "options": {
             "title": {
               "en": "Trigger your sensor...",
-              "nl": "Laat de sensor afgaan..."
+              "nl": "Laat de sensor afgaan...",
+              "da": "Udløs din sensor...",
+              "de": "Löse deinen Sensor aus...",
+              "es": "Activa tu sensor...",
+              "fr": "Déclenchez votre capteur...",
+              "it": "Attiva il tuo sensore...",
+              "no": "Utøs sensoren din...",
+              "sv": "Utlös din sensor...",
+              "pl": "Uruchom swój czujnik...",
+              "ru": "Запустите свой датчик...",
+              "ko": "센서를 작동시키세요..."
             },
             "instruction": {
               "en": "Change the switch from DEL to SET or move your hand in front of the sensor.",
-              "nl": "Zet de schakelaar van DEL naar SET of beweeg je hand voor de sensor."
+              "nl": "Zet de schakelaar van DEL naar SET of beweeg je hand voor de sensor.",
+              "da": "Skift kontakten fra DEL til SET, eller bevæg din hånd foran sensoren.",
+              "de": "Schalte den Schalter von DEL auf SET oder bewege deine Hand vor dem Sensor.",
+              "es": "Cambia el interruptor de DEL a SET o mueve tu mano frente al sensor.",
+              "fr": "Changez l'interrupteur de DEL à SET ou passez votre main devant le capteur.",
+              "it": "Cambia l'interruttore da DEL a SET o muovi la mano davanti al sensore.",
+              "no": "Bytt bryteren fra DEL til SET, eller bevege hånden foran sensoren.",
+              "sv": "Ändra brytaren från DEL till SET eller rör din hand framför sensorn.",
+              "pl": "Zmień przełącznik z DEL na SET lub porusz ręką przed czujnikiem.",
+              "ru": "Переключите переключатель с DEL на SET или проведите рукой перед датчиком.",
+              "ko": "스위치를 DEL에서 SET으로 변경하거나 센서 앞에 손을 움직이세요."
             }
           }
         }
@@ -9854,7 +10115,18 @@
     },
     {
       "name": {
-        "en": "AWST-8800"
+        "en": "AWST-8800",
+        "nl": "AWST-8800",
+        "da": "AWST-8800",
+        "de": "AWST-8800",
+        "es": "AWST-8800",
+        "fr": "AWST-8800",
+        "it": "AWST-8800",
+        "no": "AWST-8800",
+        "sv": "AWST-8800",
+        "pl": "AWST-8800",
+        "ru": "AWST-8800",
+        "ko": "AWST-8800"
       },
       "class": "remote",
       "capabilities": [],
@@ -9970,7 +10242,18 @@
     },
     {
       "name": {
-        "en": "AWST-8802"
+        "en": "AWST-8802",
+        "nl": "AWST-8802",
+        "da": "AWST-8802",
+        "de": "AWST-8802",
+        "es": "AWST-8802",
+        "fr": "AWST-8802",
+        "it": "AWST-8802",
+        "no": "AWST-8802",
+        "sv": "AWST-8802",
+        "pl": "AWST-8802",
+        "ru": "AWST-8802",
+        "ko": "AWST-8802"
       },
       "class": "remote",
       "capabilities": [],
@@ -10202,7 +10485,18 @@
     },
     {
       "name": {
-        "en": "AYCT-102"
+        "en": "AYCT-102",
+        "nl": "AYCT-102",
+        "da": "AYCT-102",
+        "de": "AYCT-102",
+        "es": "AYCT-102",
+        "fr": "AYCT-102",
+        "it": "AYCT-102",
+        "no": "AYCT-102",
+        "sv": "AYCT-102",
+        "pl": "AYCT-102",
+        "ru": "AYCT-102",
+        "ko": "AYCT-102"
       },
       "class": "remote",
       "capabilities": [],
@@ -10256,7 +10550,18 @@
     },
     {
       "name": {
-        "en": "AYCT-202"
+        "en": "AYCT-202",
+        "nl": "AYCT-202",
+        "da": "AYCT-202",
+        "de": "AYCT-202",
+        "es": "AYCT-202",
+        "fr": "AYCT-202",
+        "it": "AYCT-202",
+        "no": "AYCT-202",
+        "sv": "AYCT-202",
+        "pl": "AYCT-202",
+        "ru": "AYCT-202",
+        "ko": "AYCT-202"
       },
       "class": "remote",
       "capabilities": [],
@@ -10310,7 +10615,73 @@
     },
     {
       "name": {
-        "en": "KCT-101"
+        "en": "AYCT-303"
+      },
+      "class": "remote",
+      "capabilities": [],
+      "images": {
+        "xlarge": "/drivers/AYCT-303/assets/images/xlarge.png",
+        "large": "/drivers/AYCT-303/assets/images/large.png",
+        "small": "/drivers/AYCT-303/assets/images/small.png"
+      },
+      "platforms": [
+        "local",
+        "cloud"
+      ],
+      "connectivity": [
+        "rf433"
+      ],
+      "pair": [
+        {
+          "id": "rf_transmitter_learn",
+          "options": {
+            "title": {
+              "en": "Press any button",
+              "nl": "Druk op een willekeurige knop",
+              "da": "Tryk på en vilkårlig knap",
+              "de": "Drücken Sie eine beliebige Taste",
+              "es": "Presiona cualquier botón",
+              "fr": "Appuyez sur n'importe quel bouton",
+              "it": "Premi un pulsante qualsiasi",
+              "no": "Trykk på en hvilken som helst knapp",
+              "sv": "Tryck på valfri knapp",
+              "pl": "Naciśnij dowolny przycisk",
+              "ru": "Нажмите любую кнопку",
+              "ko": "아무 버튼이나 누르세요"
+            },
+            "instruction": {
+              "en": "Press any button on your device.",
+              "nl": "Druk op een willekeurige knop op het apparaat",
+              "da": "Tryk på en vilkårlig knap på din enhed.",
+              "de": "Drücken Sie eine beliebige Taste auf Ihrem Gerät.",
+              "es": "Presiona cualquier botón en tu dispositivo.",
+              "fr": "Appuyez sur n'importe quel bouton de votre appareil.",
+              "it": "Premi un qualsiasi pulsante sul tuo dispositivo.",
+              "no": "Trykk på en hvilken som helst knapp på enheten din.",
+              "sv": "Tryck på valfri knapp på din enhet.",
+              "pl": "Naciśnij dowolny przycisk na swoim urządzeniu.",
+              "ru": "Нажмите любую кнопку на вашем устройстве.",
+              "ko": "장치의 아무 버튼이나 누르세요."
+            }
+          }
+        }
+      ],
+      "id": "AYCT-303"
+    },
+    {
+      "name": {
+        "en": "KCT-101",
+        "nl": "KCT-101",
+        "da": "KCT-101",
+        "de": "KCT-101",
+        "es": "KCT-101",
+        "fr": "KCT-101",
+        "it": "KCT-101",
+        "no": "KCT-101",
+        "sv": "KCT-101",
+        "pl": "KCT-101",
+        "ru": "KCT-101",
+        "ko": "KCT-101"
       },
       "class": "remote",
       "capabilities": [],
@@ -10369,7 +10740,17 @@
     },
     {
       "name": {
-        "en": "KCT-510"
+        "en": "KCT-510",
+        "da": "KCT-510",
+        "de": "KCT-510",
+        "es": "KCT-510",
+        "fr": "KCT-510",
+        "it": "KCT-510",
+        "no": "KCT-510",
+        "sv": "KCT-510",
+        "pl": "KCT-510",
+        "ru": "KCT-510",
+        "ko": "KCT-510"
       },
       "class": "remote",
       "capabilities": [],
@@ -11299,7 +11680,17 @@
           "options": {
             "instruction": {
               "en": "Turn the codewheels so that they correspond with your device, then press the checkmark.",
-              "nl": "Draai de codewielen zodat ze overeenkomen met je appraaat, druk daarna op het vinkje."
+              "nl": "Draai de codewielen zodat ze overeenkomen met je appraaat, druk daarna op het vinkje.",
+              "da": "Drej kodehjulene, så de svarer til din enhed, og tryk derefter på fluebenet.",
+              "de": "Drehen Sie die Code-Räder so, dass sie mit Ihrem Gerät übereinstimmen, und drücken Sie dann das Häkchen.",
+              "es": "Gira las ruedas del código para que correspondan con tu dispositivo y luego presiona la marca de verificación.",
+              "fr": "Tournez les roues de code pour qu'elles correspondent à votre appareil, puis appuyez sur la coche.",
+              "it": "Gira le ruote del codice in modo che corrispondano al tuo dispositivo, quindi premi il segno di spunta.",
+              "no": "Drei kodhjulene slik at de samsvarer med enheten din, og trykk deretter på hake.",
+              "sv": "Vrida kodhjulen så att de motsvarar din enhet och tryck sedan på markeringen.",
+              "pl": "Obróć koła kodowe, aby odpowiadały twojemu urządzeniu, a następnie naciśnij znak kontrolny.",
+              "ru": "Поверните кодовые колёса, чтобы они соответствовали вашему устройству, затем нажмите галочку.",
+              "ko": "코드 휠을 장치와 일치하도록 돌린 다음 체크 표시를 누르세요."
             },
             "codewheelList": [
               {
@@ -11530,7 +11921,18 @@
     },
     {
       "name": {
-        "en": "YCT-102"
+        "en": "YCT-102",
+        "nl": "YCT-102",
+        "da": "YCT-102",
+        "de": "YCT-102",
+        "es": "YCT-102",
+        "fr": "YCT-102",
+        "it": "YCT-102",
+        "no": "YCT-102",
+        "sv": "YCT-102",
+        "pl": "YCT-102",
+        "ru": "YCT-102",
+        "ko": "YCT-102"
       },
       "class": "remote",
       "capabilities": [],
@@ -14312,11 +14714,31 @@
         "id": "AYCT-202:received",
         "title": {
           "en": "Channel button is pressed",
-          "nl": "Kanaal knop is ingedrukt"
+          "nl": "Kanaal knop is ingedrukt",
+          "da": "Kanal-knappen er trykket",
+          "de": "Kanaltaste wird gedrückt",
+          "es": "Se presiona el botón del canal",
+          "fr": "Le bouton du canal est pressé",
+          "it": "Il pulsante del canale è premuto",
+          "no": "Kanalknappen er trykket",
+          "sv": "Kanal-knappen trycks",
+          "pl": "Przycisk kanału został naciśnięty",
+          "ru": "Кнопка канала нажата",
+          "ko": "채널 버튼이 눌렸습니다"
         },
         "titleFormatted": {
           "en": "[[channel]] is turned [[state]]",
-          "nl": "[[channel]] wordt [[state]] gezet"
+          "nl": "[[channel]] wordt [[state]] gezet",
+          "da": "[[channel]] er blevet [[state]]",
+          "de": "[[channel]] wird [[state]]",
+          "es": "[[channel]] está [[state]]",
+          "fr": "[[channel]] est [[state]]",
+          "it": "[[channel]] è [[state]]",
+          "no": "[[channel]] er [[state]]",
+          "sv": "[[channel]] är [[state]]",
+          "pl": "[[channel]] jest [[state]]",
+          "ru": "[[channel]] [[state]]",
+          "ko": "[[channel]] [[state]]"
         },
         "args": [
           {
@@ -14328,7 +14750,17 @@
             "name": "channel",
             "title": {
               "en": "Channel",
-              "nl": "Kanaal"
+              "nl": "Kanaal",
+              "da": "Kanal",
+              "de": "Kanal",
+              "es": "Canal",
+              "fr": "Canal",
+              "it": "Canale",
+              "no": "Kanal",
+              "sv": "Kanal",
+              "pl": "Kanał",
+              "ru": "Канал",
+              "ko": "채널"
             },
             "type": "dropdown",
             "values": [
@@ -14336,35 +14768,85 @@
                 "id": "00",
                 "label": {
                   "en": "Channel 1",
-                  "nl": "Kanaal 1"
+                  "nl": "Kanaal 1",
+                  "da": "Kanal 1",
+                  "de": "Kanal 1",
+                  "es": "Canal 1",
+                  "fr": "Canal 1",
+                  "it": "Canale 1",
+                  "no": "Kanal 1",
+                  "sv": "Kanal 1",
+                  "pl": "Kanał 1",
+                  "ru": "Канал 1",
+                  "ko": "채널 1"
                 }
               },
               {
                 "id": "10",
                 "label": {
                   "en": "Channel 2",
-                  "nl": "Kanaal 2"
+                  "nl": "Kanaal 2",
+                  "da": "Kanal 2",
+                  "de": "Kanal 2",
+                  "es": "Canal 2",
+                  "fr": "Canal 2",
+                  "it": "Canale 2",
+                  "no": "Kanal 2",
+                  "sv": "Kanal 2",
+                  "pl": "Kanał 2",
+                  "ru": "Канал 2",
+                  "ko": "채널 2"
                 }
               },
               {
                 "id": "01",
                 "label": {
                   "en": "Channel 3",
-                  "nl": "Kanaal 3"
+                  "nl": "Kanaal 3",
+                  "da": "Kanal 3",
+                  "de": "Kanal 3",
+                  "es": "Canal 3",
+                  "fr": "Canal 3",
+                  "it": "Canale 3",
+                  "no": "Kanal 3",
+                  "sv": "Kanal 3",
+                  "pl": "Kanał 3",
+                  "ru": "Канал 3",
+                  "ko": "채널 3"
                 }
               },
               {
                 "id": "11",
                 "label": {
                   "en": "Channel 4",
-                  "nl": "Kanaal 4"
+                  "nl": "Kanaal 4",
+                  "da": "Kanal 4",
+                  "de": "Kanal 4",
+                  "es": "Canal 4",
+                  "fr": "Canal 4",
+                  "it": "Canale 4",
+                  "no": "Kanal 4",
+                  "sv": "Kanal 4",
+                  "pl": "Kanał 4",
+                  "ru": "Канал 4",
+                  "ko": "채널 4"
                 }
               },
               {
                 "id": "g",
                 "label": {
                   "en": "All (G)",
-                  "nl": "Alles (G)"
+                  "nl": "Alles (G)",
+                  "da": "Alle (G)",
+                  "de": "Alle (G)",
+                  "es": "Todos (G)",
+                  "fr": "Tous (G)",
+                  "it": "Tutti (G)",
+                  "no": "Alle (G)",
+                  "sv": "Alla (G)",
+                  "pl": "Wszystkie (G)",
+                  "ru": "Все (G)",
+                  "ko": "전체 (G)"
                 }
               }
             ]
@@ -14372,7 +14854,17 @@
           {
             "name": "state",
             "title": {
-              "en": "State"
+              "en": "State",
+              "da": "Tilstand",
+              "de": "Zustand",
+              "es": "Estado",
+              "fr": "État",
+              "it": "Stato",
+              "no": "Tilstand",
+              "sv": "Tillstånd",
+              "pl": "Stan",
+              "ru": "Состояние",
+              "ko": "상태"
             },
             "type": "dropdown",
             "values": [
@@ -14380,14 +14872,34 @@
                 "id": "1",
                 "label": {
                   "en": "On",
-                  "nl": "Aan"
+                  "nl": "Aan",
+                  "da": "Tændt",
+                  "de": "An",
+                  "es": "Encendido",
+                  "fr": "Allumé",
+                  "it": "Acceso",
+                  "no": "På",
+                  "sv": "På",
+                  "pl": "Włączony",
+                  "ru": "Включено",
+                  "ko": "켜짐"
                 }
               },
               {
                 "id": "0",
                 "label": {
                   "en": "Off",
-                  "nl": "Uit"
+                  "nl": "Uit",
+                  "da": "Slukket",
+                  "de": "Aus",
+                  "es": "Apagado",
+                  "fr": "Éteint",
+                  "it": "Spento",
+                  "no": "Av",
+                  "sv": "Av",
+                  "pl": "Wyłączony",
+                  "ru": "Выключено",
+                  "ko": "꺼짐"
                 }
               }
             ]
@@ -14398,11 +14910,31 @@
         "id": "AYCT-202:pressed",
         "title": {
           "en": "Button is pressed",
-          "nl": "Knop is ingedrukt"
+          "nl": "Knop is ingedrukt",
+          "da": "Knappen er trykket",
+          "de": "Taste wird gedrückt",
+          "es": "Se presiona el botón",
+          "fr": "Le bouton est pressé",
+          "it": "Il pulsante è stato premuto",
+          "no": "Knappen er trykket",
+          "sv": "Knappen trycks",
+          "pl": "Przycisk jest wciśnięty",
+          "ru": "Кнопка нажата",
+          "ko": "버튼이 눌렸습니다"
         },
         "titleFormatted": {
           "en": "[[state]] button is pressed",
-          "nl": "[[state]] knop is ingedrukt"
+          "nl": "[[state]] knop is ingedrukt",
+          "da": "[[state]] knappen er trykket",
+          "de": "[[state]] Taste wird gedrückt",
+          "es": "[[state]] botón es presionado",
+          "fr": "Bouton [[state]] est pressé",
+          "it": "[[state]] pulsante è premuto",
+          "no": "[[state]] knappen er trykket",
+          "sv": "[[state]] knappen trycks",
+          "pl": "Przycisk jest [[state]] wciśnięty",
+          "ru": "Кнопка [[state]] нажата",
+          "ko": "[[state]] 버튼이 눌렸습니다"
         },
         "args": [
           {
@@ -14413,7 +14945,17 @@
           {
             "name": "state",
             "title": {
-              "en": "State"
+              "en": "State",
+              "da": "Tilstand",
+              "de": "Zustand",
+              "es": "Estado",
+              "fr": "État",
+              "it": "Stato",
+              "no": "Tilstand",
+              "sv": "Tillstånd",
+              "pl": "Stan",
+              "ru": "Состояние",
+              "ko": "상태"
             },
             "type": "dropdown",
             "values": [
@@ -14421,14 +14963,34 @@
                 "id": "1",
                 "label": {
                   "en": "On",
-                  "nl": "Aan"
+                  "nl": "Aan",
+                  "da": "Tændt",
+                  "de": "An",
+                  "es": "Encendido",
+                  "fr": "Allumé",
+                  "it": "Acceso",
+                  "no": "På",
+                  "sv": "På",
+                  "pl": "Włączony",
+                  "ru": "Включено",
+                  "ko": "켜짐"
                 }
               },
               {
                 "id": "0",
                 "label": {
                   "en": "Off",
-                  "nl": "Uit"
+                  "nl": "Uit",
+                  "da": "Slukket",
+                  "de": "Aus",
+                  "es": "Apagado",
+                  "fr": "Éteint",
+                  "it": "Spento",
+                  "no": "Av",
+                  "sv": "Av",
+                  "pl": "Wyłączony",
+                  "ru": "Выключено",
+                  "ko": "꺼짐"
                 }
               }
             ]
@@ -14439,11 +15001,31 @@
         "id": "AYCT-202:dim-channel",
         "title": {
           "en": "Channel dim level changed",
-          "nl": "Dimniveau kanaal is gewijzigd"
+          "nl": "Dimniveau kanaal is gewijzigd",
+          "da": "Kanal dimniveau ændret",
+          "de": "Dimmniveau des Kanals geändert",
+          "es": "Nivel de atenuación del canal cambiado",
+          "fr": "Niveau de luminosité du canal modifié",
+          "it": "Livello di attenuazione del canale cambiato",
+          "no": "Kanaldimmningsnivå endret",
+          "sv": "Kanalens dimmernivå ändrad",
+          "pl": "Zmieniono poziom ściemniania kanału",
+          "ru": "Изменен уровень затемнения канала",
+          "ko": "채널 디밍 레벨 변경"
         },
         "titleFormatted": {
           "en": "[[channel]] dim level changed",
-          "nl": "Dimniveau [[channel]] is gewijzigd"
+          "nl": "Dimniveau [[channel]] is gewijzigd",
+          "da": "[[channel]] dimniveau er ændret",
+          "de": "[[channel]] Dimmniveau geändert",
+          "es": "Nivel de atenuación de [[channel]] cambiado",
+          "fr": "Niveau de luminosité de [[channel]] changé",
+          "it": "Livello di attenuazione di [[channel]] cambiato",
+          "no": "[[channel]] dimmingsnivå endret",
+          "sv": "[[channel]] dimmernivå ändrad",
+          "pl": "Zmieniono poziom ściemniania [[channel]]",
+          "ru": "Изменен уровень затемнения [[channel]]",
+          "ko": "[[channel]] 디밍 레벨 변경됨"
         },
         "args": [
           {
@@ -14455,7 +15037,17 @@
             "name": "channel",
             "title": {
               "en": "Channel",
-              "nl": "Kanaal"
+              "nl": "Kanaal",
+              "da": "Kanal",
+              "de": "Kanal",
+              "es": "Canal",
+              "fr": "Canal",
+              "it": "Canale",
+              "no": "Kanal",
+              "sv": "Kanal",
+              "pl": "Kanał",
+              "ru": "Канал",
+              "ko": "채널"
             },
             "type": "dropdown",
             "values": [
@@ -14463,28 +15055,68 @@
                 "id": "00",
                 "label": {
                   "en": "Channel 1",
-                  "nl": "Kanaal 1"
+                  "nl": "Kanaal 1",
+                  "da": "Kanal 1",
+                  "de": "Kanal 1",
+                  "es": "Canal 1",
+                  "fr": "Canal 1",
+                  "it": "Canale 1",
+                  "no": "Kanal 1",
+                  "sv": "Kanal 1",
+                  "pl": "Kanał 1",
+                  "ru": "Канал 1",
+                  "ko": "채널 1"
                 }
               },
               {
                 "id": "10",
                 "label": {
                   "en": "Channel 2",
-                  "nl": "Kanaal 2"
+                  "nl": "Kanaal 2",
+                  "da": "Kanal 2",
+                  "de": "Kanal 2",
+                  "es": "Canal 2",
+                  "fr": "Canal 2",
+                  "it": "Canale 2",
+                  "no": "Kanal 2",
+                  "sv": "Kanal 2",
+                  "pl": "Kanał 2",
+                  "ru": "Канал 2",
+                  "ko": "채널 2"
                 }
               },
               {
                 "id": "01",
                 "label": {
                   "en": "Channel 3",
-                  "nl": "Kanaal 3"
+                  "nl": "Kanaal 3",
+                  "da": "Kanal 3",
+                  "de": "Kanal 3",
+                  "es": "Canal 3",
+                  "fr": "Canal 3",
+                  "it": "Canale 3",
+                  "no": "Kanal 3",
+                  "sv": "Kanal 3",
+                  "pl": "Kanał 3",
+                  "ru": "Канал 3",
+                  "ko": "채널 3"
                 }
               },
               {
                 "id": "11",
                 "label": {
                   "en": "Channel 4",
-                  "nl": "Kanaal 4"
+                  "nl": "Kanaal 4",
+                  "da": "Kanal 4",
+                  "de": "Kanal 4",
+                  "es": "Canal 4",
+                  "fr": "Canal 4",
+                  "it": "Canale 4",
+                  "no": "Kanal 4",
+                  "sv": "Kanal 4",
+                  "pl": "Kanał 4",
+                  "ru": "Канал 4",
+                  "ko": "채널 4"
                 }
               }
             ]
@@ -14496,7 +15128,17 @@
             "type": "number",
             "title": {
               "en": "Dim-level",
-              "nl": "Dim-niveau"
+              "nl": "Dim-niveau",
+              "da": "Dæmpningsniveau",
+              "de": "Dimmniveau",
+              "es": "Nivel de atenuación",
+              "fr": "Niveau de luminosité",
+              "it": "Livello di attenuazione",
+              "no": "Dimmingsnivå",
+              "sv": "Dimmnivå",
+              "pl": "Poziom ściemniania",
+              "ru": "Уровень затемнения",
+              "ko": "디밍 레벨"
             },
             "example": 0.5
           }
@@ -14506,11 +15148,31 @@
         "id": "AYCT-202:dim",
         "title": {
           "en": "Brightness button is pressed",
-          "nl": "Helderheid knop is ingedrukt"
+          "nl": "Helderheid knop is ingedrukt",
+          "da": "Lysstyrke-knappen er trykket",
+          "de": "Helligkeitstaste wird gedrückt",
+          "es": "Se presiona el botón de brillo",
+          "fr": "Le bouton de luminosité est pressé",
+          "it": "Il pulsante della luminosità è premuto",
+          "no": "Lysstyrkeknappen er trykket",
+          "sv": "Ljusstyrka-knappen trycks",
+          "pl": "Przycisk jasności został naciśnięty",
+          "ru": "Кнопка яркости нажата",
+          "ko": "밝기 버튼이 눌렸습니다"
         },
         "titleFormatted": {
           "en": "Brightness button is pressed",
-          "nl": "Helderheid knop is ingedrukt"
+          "nl": "Helderheid knop is ingedrukt",
+          "da": "Lysstyrke-knappen er trykket",
+          "de": "Helligkeitstaste wird gedrückt",
+          "es": "Se presiona el botón de brillo",
+          "fr": "Le bouton de luminosité est pressé",
+          "it": "Il pulsante della luminosità è premuto",
+          "no": "Lysstyrkeknappen er trykket",
+          "sv": "Ljusstyrka-knappen trycks",
+          "pl": "Przycisk jasności został naciśnięty",
+          "ru": "Кнопка яркости нажата",
+          "ko": "밝기 버튼이 눌렸습니다"
         },
         "tokens": [
           {
@@ -14518,7 +15180,17 @@
             "type": "number",
             "title": {
               "en": "Dim-level",
-              "nl": "Dim-niveau"
+              "nl": "Dim-niveau",
+              "da": "Dæmpningsniveau",
+              "de": "Dimmniveau",
+              "es": "Nivel de atenuación",
+              "fr": "Niveau de luminosité",
+              "it": "Livello di attenuazione",
+              "no": "Dimmingsnivå",
+              "sv": "Dimmnivå",
+              "pl": "Poziom ściemniania",
+              "ru": "Уровень затемнения",
+              "ko": "디밍 레벨"
             },
             "example": 0.5
           }
@@ -14528,6 +15200,350 @@
             "type": "device",
             "name": "device",
             "filter": "driver_id=AYCT-202"
+          }
+        ]
+      },
+      {
+        "id": "AYCT-303:pressed",
+        "title": {
+          "en": "Channel button is pressed",
+          "nl": "Kanaal knop is ingedrukt",
+          "da": "Kanal knappen er trykket på",
+          "de": "Kanaltaste wurde gedrückt",
+          "es": "Botón del canal pulsado",
+          "fr": "Bouton du canal pressé",
+          "it": "Pulsante del canale premuto",
+          "no": "Kanal-knappen er trykket",
+          "sv": "Kanal-knappen trycks ned",
+          "pl": "Przycisk kanału jest wciśnięty",
+          "ru": "Кнопка канала нажата",
+          "ko": "채널 버튼이 눌렸습니다"
+        },
+        "titleFormatted": {
+          "en": "[[channel]] is turned [[state]]",
+          "nl": "[[channel]] wordt [[state]] gezet",
+          "da": "[[channel]] er blevet [[state]]",
+          "de": "[[channel]] wird [[state]]",
+          "es": "[[channel]] está [[state]]",
+          "fr": "[[channel]] est [[state]]",
+          "it": "[[channel]] è [[state]]",
+          "no": "[[channel]] er blitt [[state]]",
+          "sv": "[[channel]] är satt till [[state]]",
+          "pl": "[[channel]] jest [[state]]",
+          "ru": "[[channel]] стал [[state]]",
+          "ko": "[[channel]]이 [[state]]로 설정됨"
+        },
+        "args": [
+          {
+            "type": "device",
+            "name": "device",
+            "filter": "driver_id=AYCT-303"
+          },
+          {
+            "name": "channel",
+            "title": {
+              "en": "Channel",
+              "nl": "Kanaal",
+              "da": "Kanal",
+              "de": "Kanal",
+              "es": "Canal",
+              "fr": "Canal",
+              "it": "Canale",
+              "no": "Kanal",
+              "sv": "Kanal",
+              "pl": "Kanał",
+              "ru": "Канал",
+              "ko": "채널"
+            },
+            "type": "dropdown",
+            "values": [
+              {
+                "id": "0001",
+                "label": {
+                  "en": "Channel 1",
+                  "nl": "Kanaal 1",
+                  "da": "Kanal 1",
+                  "de": "Kanal 1",
+                  "es": "Canal 1",
+                  "fr": "Canal 1",
+                  "it": "Canale 1",
+                  "no": "Kanal 1",
+                  "sv": "Kanal 1",
+                  "pl": "Kanał 1",
+                  "ru": "Канал 1",
+                  "ko": "채널 1"
+                }
+              },
+              {
+                "id": "0010",
+                "label": {
+                  "en": "Channel 2",
+                  "nl": "Kanaal 2",
+                  "da": "Kanal 2",
+                  "de": "Kanal 2",
+                  "es": "Canal 2",
+                  "fr": "Canal 2",
+                  "it": "Canale 2",
+                  "no": "Kanal 2",
+                  "sv": "Kanal 2",
+                  "pl": "Kanał 2",
+                  "ru": "Канал 2",
+                  "ko": "채널 2"
+                }
+              },
+              {
+                "id": "0011",
+                "label": {
+                  "en": "Channel 3",
+                  "nl": "Kanaal 3",
+                  "da": "Kanal 3",
+                  "de": "Kanal 3",
+                  "es": "Canal 3",
+                  "fr": "Canal 3",
+                  "it": "Canale 3",
+                  "no": "Kanal 3",
+                  "sv": "Kanal 3",
+                  "pl": "Kanał 3",
+                  "ru": "Канал 3",
+                  "ko": "채널 3"
+                }
+              },
+              {
+                "id": "0100",
+                "label": {
+                  "en": "Channel 4",
+                  "nl": "Kanaal 4",
+                  "da": "Kanal 4",
+                  "de": "Kanal 4",
+                  "es": "Canal 4",
+                  "fr": "Canal 4",
+                  "it": "Canale 4",
+                  "no": "Kanal 4",
+                  "sv": "Kanal 4",
+                  "pl": "Kanał 4",
+                  "ru": "Канал 4",
+                  "ko": "채널 4"
+                }
+              },
+              {
+                "id": "0000",
+                "label": {
+                  "en": "All (G)",
+                  "nl": "Alles (G)",
+                  "da": "Alle (G)",
+                  "de": "Alle (G)",
+                  "es": "Todos (G)",
+                  "fr": "Tous (G)",
+                  "it": "Tutti (G)",
+                  "no": "Alle (G)",
+                  "sv": "Alla (G)",
+                  "pl": "Wszystkie (G)",
+                  "ru": "Все (G)",
+                  "ko": "전체 (G)"
+                }
+              }
+            ]
+          },
+          {
+            "name": "state",
+            "title": {
+              "en": "State",
+              "nl": "Status",
+              "da": "Tilstand",
+              "de": "Zustand",
+              "es": "Estado",
+              "fr": "État",
+              "it": "Stato",
+              "no": "Tilstand",
+              "sv": "Tillstånd",
+              "pl": "Stan",
+              "ru": "Состояние",
+              "ko": "상태"
+            },
+            "type": "dropdown",
+            "values": [
+              {
+                "id": "1",
+                "label": {
+                  "en": "On",
+                  "nl": "Aan",
+                  "da": "Tændt",
+                  "de": "An",
+                  "es": "Encendido",
+                  "fr": "Allumé",
+                  "it": "Acceso",
+                  "no": "På",
+                  "sv": "På",
+                  "pl": "Włączony",
+                  "ru": "Включено",
+                  "ko": "켜짐"
+                }
+              },
+              {
+                "id": "0",
+                "label": {
+                  "en": "Off",
+                  "nl": "Uit",
+                  "da": "Slukket",
+                  "de": "Aus",
+                  "es": "Apagado",
+                  "fr": "Éteint",
+                  "it": "Spento",
+                  "no": "Av",
+                  "sv": "Av",
+                  "pl": "Wyłączony",
+                  "ru": "Выключено",
+                  "ko": "꺼짐"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "AYCT-303:dimmed",
+        "title": {
+          "en": "Channel dim level changed",
+          "nl": "Dimniveau kanaal is gewijzigd",
+          "da": "Kanal dæmpningsniveau ændret",
+          "de": "Dimmniveau des Kanals geändert",
+          "es": "Nivel de atenuación del canal cambiado",
+          "fr": "Niveau de gradation du canal modifié",
+          "it": "Livello di attenuazione del canale cambiato",
+          "no": "Kanalens dimmenivå endret",
+          "sv": "Kanalens dimmernivå har ändrats",
+          "pl": "Poziom ściemnienia kanału zmieniony",
+          "ru": "Изменен уровень диммирования канала",
+          "ko": "채널 디밍 수준 변경"
+        },
+        "titleFormatted": {
+          "en": "[[channel]] dim level changed",
+          "nl": "Dimniveau [[channel]] is gewijzigd",
+          "da": "[[channel]] dæmpningsniveau ændret",
+          "de": "[[channel]] Dimm-Level geändert",
+          "es": "Nivel de atenuación de [[channel]] cambiado",
+          "fr": "Niveau de gradation de [[channel]] modifié",
+          "it": "Livello di attenuazione di [[channel]] cambiato",
+          "no": "[[channel]]s dimmenivå endret",
+          "sv": "[[channel]]s dimmernivå ändrades",
+          "pl": "Zmieniono poziom ściemnienia [[channel]]",
+          "ru": "Уровень диммирования [[channel]] изменен",
+          "ko": "[[channel]] 디밍 수준 변경됨"
+        },
+        "args": [
+          {
+            "type": "device",
+            "name": "device",
+            "filter": "driver_id=AYCT-303"
+          },
+          {
+            "name": "channel",
+            "title": {
+              "en": "Channel",
+              "nl": "Kanaal",
+              "da": "Kanal",
+              "de": "Kanal",
+              "es": "Canal",
+              "fr": "Canal",
+              "it": "Canale",
+              "no": "Kanal",
+              "sv": "Kanal",
+              "pl": "Kanał",
+              "ru": "Канал",
+              "ko": "채널"
+            },
+            "type": "dropdown",
+            "values": [
+              {
+                "id": "0001",
+                "label": {
+                  "en": "Channel 1",
+                  "nl": "Kanaal 1",
+                  "da": "Kanal 1",
+                  "de": "Kanal 1",
+                  "es": "Canal 1",
+                  "fr": "Canal 1",
+                  "it": "Canale 1",
+                  "no": "Kanal 1",
+                  "sv": "Kanal 1",
+                  "pl": "Kanał 1",
+                  "ru": "Канал 1",
+                  "ko": "채널 1"
+                }
+              },
+              {
+                "id": "0010",
+                "label": {
+                  "en": "Channel 2",
+                  "nl": "Kanaal 2",
+                  "da": "Kanal 2",
+                  "de": "Kanal 2",
+                  "es": "Canal 2",
+                  "fr": "Canal 2",
+                  "it": "Canale 2",
+                  "no": "Kanal 2",
+                  "sv": "Kanal 2",
+                  "pl": "Kanał 2",
+                  "ru": "Канал 2",
+                  "ko": "채널 2"
+                }
+              },
+              {
+                "id": "0011",
+                "label": {
+                  "en": "Channel 3",
+                  "nl": "Kanaal 3",
+                  "da": "Kanal 3",
+                  "de": "Kanal 3",
+                  "es": "Canal 3",
+                  "fr": "Canal 3",
+                  "it": "Canale 3",
+                  "no": "Kanal 3",
+                  "sv": "Kanal 3",
+                  "pl": "Kanał 3",
+                  "ru": "Канал 3",
+                  "ko": "채널 3"
+                }
+              },
+              {
+                "id": "0100",
+                "label": {
+                  "en": "Channel 4",
+                  "nl": "Kanaal 4",
+                  "da": "Kanal 4",
+                  "de": "Kanal 4",
+                  "es": "Canal 4",
+                  "fr": "Canal 4",
+                  "it": "Canale 4",
+                  "no": "Kanal 4",
+                  "sv": "Kanal 4",
+                  "pl": "Kanał 4",
+                  "ru": "Канал 4",
+                  "ko": "채널 4"
+                }
+              }
+            ]
+          }
+        ],
+        "tokens": [
+          {
+            "name": "value",
+            "type": "number",
+            "title": {
+              "en": "Dim-level",
+              "nl": "Dim-niveau",
+              "da": "Dæmpningsniveau",
+              "de": "Dimm-Level",
+              "es": "Nivel de atenuación",
+              "fr": "Niveau de gradation",
+              "it": "Livello di attenuazione",
+              "no": "Dim-nivå",
+              "sv": "Dimmernivå",
+              "pl": "Poziom ściemnienia",
+              "ru": "Уровень диммирования",
+              "ko": "디밍 수준"
+            },
+            "example": 0.5
           }
         ]
       },
@@ -15963,6 +16979,37 @@
         "maximalLength": 12
       },
       "kaku-old-transmitter": {
+        "sof": [],
+        "eof": [
+          312
+        ],
+        "words": [
+          [
+            312,
+            1090,
+            312,
+            1090
+          ],
+          [
+            312,
+            1090,
+            990,
+            400
+          ],
+          [
+            312,
+            1090,
+            312,
+            380
+          ]
+        ],
+        "interval": 11300,
+        "repetitions": 6,
+        "sensitivity": 0.5,
+        "minimalLength": 12,
+        "maximalLength": 12
+      },
+      "kaku-wst": {
         "sof": [],
         "eof": [
           312

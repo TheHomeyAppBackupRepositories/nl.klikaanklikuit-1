@@ -1,1 +1,38 @@
-<svg height="960" viewBox="0 0 960 960" width="960" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><g stroke="#000" stroke-linejoin="round"><path d="m55 910h260v42h-260z" stroke-width="20"/><path d="m645 910h260v42h-260z" stroke-width="20"/><path d="m335 918.5h-299v-226h6v-601.8209999l.4870285.4883282 66.0760525-66.1796246-.486081-.4877036h743.412244l-.485474.4877036 66.076053 66.1796246-.000823 601.1516717 4.921.000037v226.180963h-298.831402l-.000598-53.837h-288.168z" stroke-width="40"/><path d="m335.470428 26h280v105c0 18.225397-14.774604 33-33 33h-214c-18.225397 0-33-14.774603-33-33z" stroke-width="20"/></g><circle cx="258.470428" cy="131" fill="#000" r="19"/><circle cx="146.470428" cy="131" fill="#000" r="16"/><path d="m35.470428 693h290v226h-290z" stroke="#000" stroke-linejoin="round" stroke-width="20"/><path d="m633.470428 693h287v226h-287z" stroke="#000" stroke-linejoin="round" stroke-width="20"/><g fill="#000"><ellipse cx="840.029572" cy="805.5" rx="29.5" ry="29"/><ellipse cx="701.029572" cy="805.5" rx="29.5" ry="29"/></g><g fill="#000"><ellipse cx="255.029572" cy="805.5" rx="29.5" ry="29"/><ellipse cx="116.029572" cy="805.5" rx="29.5" ry="29"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="m65.84,10.98v8.5c0,1.49-1.21,2.95-2.69,3.26l-17.45,3.71c-1.48.32-2.69-.63-2.69-2.12v-8.5"/>
+  <ellipse cx="36.74" cy="25.85" rx="1.72" ry="1.39" transform="translate(-7.05 35.88) rotate(-48.03)"/>
+  <ellipse cx="27.61" cy="27.79" rx="1.45" ry="1.17" transform="translate(-11.51 29.73) rotate(-48.03)"/>
+  <polyline class="cls-2" points="42.2 88.87 42.2 70.49 19.08 75.27"/>
+  <polygon class="cls-2" points="90.43 60.24 90.43 78.63 67.31 83.55 67.31 65.16 90.43 60.24"/>
+  <g>
+    <ellipse cx="84.14" cy="70.75" rx="2.65" ry="2.14" transform="translate(-25.25 81.71) rotate(-45.78)"/>
+    <ellipse cx="72.81" cy="73.16" rx="2.65" ry="2.14" transform="translate(-30.4 74.32) rotate(-45.78)"/>
+  </g>
+  <g>
+    <ellipse cx="36.46" cy="80.89" rx="2.65" ry="2.14" transform="translate(-46.94 50.6) rotate(-45.78)"/>
+    <ellipse cx="25.13" cy="83.29" rx="2.65" ry="2.14" transform="translate(-52.09 43.21) rotate(-45.78)"/>
+  </g>
+  <polygon class="cls-1" points="19.08 93.9 5.57 89.38 5.57 21.36 10.96 14.81 70.8 2.1 85.08 6.89 85.08 6.89 90.43 11.19 90.43 78.63 67.31 83.55 66.46 83.72 66.46 79.33 42.98 84.33 42.98 88.71 19.08 93.9 19.08 93.9"/>
+  <line class="cls-2" x1="24.75" y1="19.43" x2="10.96" y2="14.81"/>
+  <line class="cls-2" x1="19.36" y1="25.98" x2="5.57" y2="21.36"/>
+  <polyline class="cls-2" points="19.08 93.9 19.09 26.31 24.48 19.77 85.08 6.89"/>
+</svg>
